@@ -1,2 +1,3 @@
 # Juego_Academic_Legends_1
- 
+"Academic Legends" es un videojuego de acción y rol (RPG) en plataformas 2D, concebido con el propósito primordial de promover hábitos alimenticios saludables y fortalecer habilidades cognitivas. Este juego, desarrollado utilizando el motor Unity y siguiendo la metodología SUM (Scrum Unified Method), representa una sinergia innovadora entre la vanguardia tecnológica y los objetivos educativos. Diseñado para ser disfrutado en ordenadores de 64 bits con sistemas operativos Windows, prescinde de la necesidad de conexión a internet, ofreciendo así una experiencia de juego autónoma y envolvente.
+![image](https://github.com/user-attachments/assets/d414289d-8d4c-45f7-8a5b-0800fc928351)
